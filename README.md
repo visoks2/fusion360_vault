@@ -5,8 +5,13 @@
 
 //TODO: write dimensions here
 
-![glass holder](https://github.com/visoks2/fusion360_vault/blob/master/Rasai/food_stand.jpg)
-![example1](https://github.com/visoks2/fusion360_vault/blob/master/Rasai/food_stands1.jpg)
-![example2](https://github.com/visoks2/fusion360_vault/blob/master/Rasai/food_stands2.jpg)
+glass holder:
+
+<img src="./Rasai/food_stand.jpg" height="400" />
+
+examples in use: 
+
+<img src="./Rasai/food_stands1.jpg" height="400" />
+<img src="./Rasai/food_stands2.jpg" height="400" />
 
 </details>
